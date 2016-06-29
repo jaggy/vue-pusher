@@ -1,6 +1,6 @@
 {
   "name": "vue-pusher",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Vuejs plugin for pusher.com",
   "main": "index.js",
   "scripts": {
