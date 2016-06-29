@@ -1,0 +1,26 @@
+{
+  "name": "vue-pusher",
+  "version": "0.0.0",
+  "description": "Vuejs plugin for pusher.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaggy/vue-pusher.git"
+  },
+  "keywords": [
+    "vuejs",
+    "vue",
+    "pusher",
+    "long",
+    "polling"
+  ],
+  "author": "Jaggy Gauran <i.am@jag,gy>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaggy/vue-pusher/issues"
+  },
+  "homepage": "https://github.com/jaggy/vue-pusher#readme"
+}
