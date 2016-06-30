@@ -1,6 +1,6 @@
 {
   "name": "vue-pusher",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Pusher plugin for vue.js",
   "main": "index.js",
   "scripts": {
@@ -13,9 +13,7 @@
   "keywords": [
     "vuejs",
     "vue",
-    "pusher",
-    "long",
-    "polling"
+    "pusher"
   ],
   "author": "Jaggy Gauran <i.am@jag,gy>",
   "license": "MIT",
