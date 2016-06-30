@@ -13,9 +13,7 @@
   "keywords": [
     "vuejs",
     "vue",
-    "pusher",
-    "long",
-    "polling"
+    "pusher"
   ],
   "author": "Jaggy Gauran <i.am@jag,gy>",
   "license": "MIT",
