@@ -1,4 +1,9 @@
 /**
+ * Importing pusher
+ */
+var Pusher = require('pusher-js');
+
+/**
  * VuePusher class.
  *
  * @param {String} api_key
