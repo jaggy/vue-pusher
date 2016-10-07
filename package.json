@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jaggy/vue-pusher/issues"
   },
-  "homepage": "https://github.com/jaggy/vue-pusher#readme"
+  "homepage": "https://github.com/jaggy/vue-pusher#readme",
+  "devDependencies": {
+    "pusher-js": "^3.x"
+  }
 }
