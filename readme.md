@@ -44,7 +44,7 @@ export default {
 Subscribing to a channel providers a callback where you can bind events.
 
 ~~~js
-this.pusher.subscribe('dashboard', channel => {
+this.$pusher.subscribe('dashboard', channel => {
     channel.bind('user.log', ({ log }) => {
         console.log(`User ${log.user.name} has ${log.action} at ${log.time}`);
     });
@@ -54,5 +54,5 @@ this.pusher.subscribe('dashboard', channel => {
 ### Unsubscribing to a channel.
 
 ~~~js
-this.pusher.unsubscribe('dashboard');
+this.$pusher.unsubscribe('dashboard');
 ~~~
