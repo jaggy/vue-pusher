@@ -2,10 +2,6 @@
 
 A pusher plugin for vue.js
 
-## Why?
-
-In my personal projects, I kinda needed the pusher instance across all components without having to re-initialize since it's a bit of a maintenance issue.
-
 ## Usage
 
 Install the plugin like any other plugin. :)
