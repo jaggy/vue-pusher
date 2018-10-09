@@ -1,6 +1,6 @@
 {
   "name": "vue-pusher",
-  "version": "0.2.1",
+  "version": "1.0.0",
   "description": "Pusher plugin for vue.js",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "url": "https://github.com/jaggy/vue-pusher/issues"
   },
   "homepage": "https://github.com/jaggy/vue-pusher#readme",
-  "devDependencies": {
-    "pusher-js": "^3.x"
+  "dependencies": {
+    "pusher-js": "^4.x"
   }
 }
